@@ -1,0 +1,40 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "0.0.1",
+  "description": "React application with redux and redux-form support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjuarros/react-redux-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "redux-form",
+    "react-validation",
+    "react-app"
+  ],
+  "author": "Mario Juarros <juarros74@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjuarros/react-redux-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mjuarros/react-redux-boilerplate#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0",
+    "redux-form": "^6.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0",
+    "webpack": "^1.14.0"
+  }
+}
